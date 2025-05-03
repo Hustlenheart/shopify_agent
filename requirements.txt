@@ -1,6 +1,4 @@
 fastapi
-uvicorn
-gunicorn
-requests
+uvicorn[standard]
 jinja2
 python-dotenv
