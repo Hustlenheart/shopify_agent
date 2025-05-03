@@ -1,1 +1,1 @@
-uvicorn dashboard.app:app --host=0.0.0.0 --port=1000
+uvicorn dashboard.app:app --host=0.0.0.0 --port=10000
